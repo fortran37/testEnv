@@ -74,6 +74,11 @@ def cd():
 
 def sdel():
     f2d = input("What file would you like to delete?")
-    
     os.remove(f2d)
+
+
+def clnStr(dirtyString):
+    cleanString = ''.join(i for i in dirtyString if i.isalnum())    
+    return cleanString
+
 

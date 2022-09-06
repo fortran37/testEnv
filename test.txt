@@ -1,0 +1,8 @@
+This module has only been tested on NT platforms. 
+Actually only Windows 10.
+In fact, that's all it's written for.
+One day it will be platform-independent! (maybe)
+
+Anyway, I'm slowly amassing functions I like to use during design and testing while I become fluent in Python.
+
+This repository is mostly to show my progress (and back up my work remotely.)
